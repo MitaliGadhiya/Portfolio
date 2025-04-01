@@ -160,7 +160,7 @@ export default function Portfolio() {
           <div className="md:w-1/2 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary">
               <Image
-                src="/profile.jpg"
+                src="./profile.jpg"
                 alt="Mitali Gadhiya"
                 fill
                 className="object-cover"
